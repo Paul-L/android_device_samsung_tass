@@ -16,6 +16,10 @@
 #
 # Product-specific compile-time definitions.
 #
+##Blah
+
+## Audio: combo device supported
+BOARD_COMBO_DEVICE_SUPPORTED := true
 
 include device/samsung/msm7x27-common/BoardConfigCommon.mk
 
