@@ -3,6 +3,7 @@ android_device_samsung_tass
 
 
 FIRST OF ALL
+---------------
 
 This is a direct fork of github.com/androidarmv6/android_device_samsung_tass
 
